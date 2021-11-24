@@ -5,6 +5,10 @@
 <p align="center">
 Lightweight RSS reader and parser with Telegram Bot integration
 </p>
+<div align="center">
+
+[![CodeFactor](https://www.codefactor.io/repository/github/r7wx/alerteye/badge)](https://www.codefactor.io/repository/github/r7wx/alerteye)
+</div>
 
 ---
 
